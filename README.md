@@ -2,6 +2,8 @@
 
 > 一个活的资源仓库——由2025届计科中高班的同学共同维护
 
+![logo](./images/logo.png)
+
 ## 🎯仓库特点
 
 这是一个简单的班级仓库，它是：  
@@ -15,17 +17,17 @@
 
 3. **面向计算机新生**：仓库的结构与内容服务于 *计算机新生*  
    
-   ## 🔧如何参与
+## 🔧如何参与
    
    注册过GitHub账户后，你可以随时通过联系**学习委员**来将你邀请为成员；  
    ——成为成员后，你可以随时开始参与构建此仓库。  
    为了参与构建，你通常需要学习以下技能：  
 
-4. **使用Git**：[创建、管理本地仓库](#使用git)  
+1. **使用Git**：[创建、管理本地仓库](#使用git)  
 
-5. **使用GitHub**：[使用远程仓库进行协作](#使用github)
+2. **使用GitHub**：[使用远程仓库进行协作](#使用github)
 
-6. **Markdown语法**：[了解.md文件（Markdown文件）用到的基础语法](#markdown语言)  
+3. **Markdown语法**：[了解.md文件（Markdown文件）用到的基础语法](#markdown语言)  
 
 ## 🎉欢迎你来！
 
@@ -36,17 +38,17 @@
 
 ## 📃目录
 
-- [学习 Learning](#学习-learning)
-  - [计科](#计科)
-  - [网安](#网安)
-  - [高数](#高数)
-  - [线代](#线代)
-- [工具 Tools](#工具-tools)
-- [基础技能 Skills](#基础技能-skills)
-- [竞赛 Contests](#竞赛-contests)
-  - [ACM](#acm)
-  - [CTF](#ctf)
-- [杂项](#杂项)
+- [HLJU 计科 资源整合仓库](#hlju-计科-资源整合仓库)
+  - [🎯仓库特点](#仓库特点)
+  - [🔧如何参与](#如何参与)
+  - [🎉欢迎你来！](#欢迎你来)
+  - [📃目录](#目录)
+- [🗂️资源地址整合](#️资源地址整合)
+  - [学习 Learning](#学习-learning)
+  - [工具 Tools](#工具-tools)
+  - [基础技能 Skills](#基础技能-skills)
+  - [竞赛 Contests](#竞赛-contests)
+  - [杂项 Misc](#杂项-misc)
 
 # 🗂️资源地址整合
 
@@ -63,12 +65,14 @@
   - [[官网]开发者路线图](https://roadmap.sh)
   - [[官网]stackoverflow](https://stackoverflow.com)
   - 数据结构与算法：
-  - [[官网]Hello，算法](https://www.hello-algo.com/)
+  - [[官网]Hello，算法](https://www.hello-algo.com)
+  - 命令行：
   - 前端：
 
 - #### 网安
   
   - [[UP推荐（科普类）]网络小白_Uncle城](https://space.bilibili.com/37858284)
+  - [[文档]暨大Xp0int网络安全兴趣小组-入入入入门（fén）综述](https://xp0int-team.feishu.cn/wiki/wikcnnWbXXGELt1xHkyBhvdQKrh)
 
 - #### 高数
   
@@ -79,7 +83,7 @@
   
   - [[视频]3Blue1Brown-【官方双语/合集】线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E)
     
-    ## 工具 Tools
+## 工具 Tools
 
 - 总推荐  
   
@@ -108,7 +112,7 @@
   - [[视频]大河李斯特视频工作室-【看番教程41】别再这样给文件转格式了！来看看正确姿势一秒换格式！FFmpeg是什么？如何使用？命令行指令怎么输入？如何图形化FFmpeg？FFmpeg保姆教程
     ](https://www.bilibili.com/video/BV1SjdoY9Erj)
     
-    ## 基础技能 Skills
+## 基础技能 Skills
 
 - #### 正确地提问
   
@@ -140,13 +144,14 @@
   
   - [[仓库]Markdown 基本语法。](https://github.com/younghz/Markdown)
     
-    ## 竞赛 Contests
+## 竞赛 Contests
 
 - #### ACM
 
 - #### CTF
-  
-  ## 杂项
+  - [[官网]CTFHub](https://www.ctfhub.com/)
+
+## 杂项 Misc
 
 - #### 东方Project
   
