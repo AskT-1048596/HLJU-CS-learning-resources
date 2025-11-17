@@ -1,25 +1,25 @@
 # HLJU 计科 资源整合仓库
 
-> 一个活的资源仓库——由2025届计科中高班的同学共同维护
+> 一个活的资源仓库——由HLJU的学生共同维护
 
 ![logo](./images/logo.png)
 
 ## 🎯仓库特点
 
-这是一个简单的班级仓库，它是：  
+这是一个简单的资源仓库，它是：  
 
 1. **资源整合**：作为导航栏收集、归档 *资源地址*  
    
-   - 归档格式：[[类型]资源描述]()
+   - 归档格式：[[资源类型]作者-标题]()
    - *同类型* 的资源请 *相邻* 地进行归档
 
 2. **实践场所**：学习并实践使用`git`与`github`  
 
 3. **面向计算机新生**：仓库的结构与内容服务于 *计算机新生*  
-   
+
 ## 🔧如何参与
-   
-   注册过GitHub账户后，你可以随时通过联系**学习委员**来将你邀请为成员；  
+
+   注册过GitHub账户后，你可以随时通过联系 **任意维护者**，比如[AskT](https://github.com/AskT-1048596)来将你邀请为成员；  
    ——成为成员后，你可以随时开始参与构建此仓库。  
    为了参与构建，你通常需要学习以下技能：  
 
@@ -38,17 +38,27 @@
 
 ## 📃目录
 
-- [HLJU 计科 资源整合仓库](#hlju-计科-资源整合仓库)
-  - [🎯仓库特点](#仓库特点)
-  - [🔧如何参与](#如何参与)
-  - [🎉欢迎你来！](#欢迎你来)
-  - [📃目录](#目录)
-- [🗂️资源地址整合](#️资源地址整合)
-  - [学习 Learning](#学习-learning)
-  - [工具 Tools](#工具-tools)
-  - [基础技能 Skills](#基础技能-skills)
-  - [竞赛 Contests](#竞赛-contests)
-  - [杂项 Misc](#杂项-misc)
+- [学习 Learning](#学习-learning)
+  
+  - [计科](#计科)
+  
+  - [网安](#网安)
+  
+  - [高数](#高数)
+  
+  - [线代](#线代)
+
+- [工具 Tools](#工具-tools)
+
+- [基础技能 Skills](#基础技能-skills)
+
+- [竞赛 Contests](#竞赛-contests)
+  
+  - [ACM](#acm)
+  
+  - [CTF](#ctf)
+
+- [杂项 Misc](#杂项-misc)
 
 # 🗂️资源地址整合
 
@@ -57,13 +67,15 @@
 - #### 计科
   
   - 计算机科学：
-  - [[UP推荐]青空の霞光](https://space.bilibili.com/37737161)
-  - [[UP推荐（科普类）]大河李斯特视频工作室](https://space.bilibili.com/12562485)
-  - [[官网]计算机教育中缺失的一课](https://missing-semester-cn.github.io)
+  - [[UP]青空の霞光](https://space.bilibili.com/37737161)
+  - [[UP（科普类）]大河李斯特视频工作室](https://space.bilibili.com/12562485)
   - [[官网]CS自学指南](https://csdiy.wiki)
   - [[官网]菜鸟教程](https://www.runoob.com)
-  - [[官网]开发者路线图](https://roadmap.sh)
+  - [[官网]计算机教育中缺失的一课](https://missing-semester-cn.github.io)
   - [[官网]stackoverflow](https://stackoverflow.com)
+  - [[官网]开发者路线图](https://roadmap.sh)
+  - [[视频]哈佛大学CS50x 2025 哈佛大学计算机科学导论课程 2025版 双语字幕 4K HDR | 附原版无字幕](https://www.bilibili.com/video/BV1Ls6BYkEGk)
+  - [[文档]figuretu - CS50 - 资源总目录]()
   - 数据结构与算法：
   - [[官网]Hello，算法](https://www.hello-algo.com)
   - 命令行：
@@ -71,18 +83,18 @@
 
 - #### 网安
   
-  - [[UP推荐（科普类）]网络小白_Uncle城](https://space.bilibili.com/37858284)
+  - [[UP（科普类）]网络小白_Uncle城](https://space.bilibili.com/37858284)
   - [[文档]暨大Xp0int网络安全兴趣小组-入入入入门（fén）综述](https://xp0int-team.feishu.cn/wiki/wikcnnWbXXGELt1xHkyBhvdQKrh)
 
 - #### 高数
   
-  - [[UP推荐]3Blue1Brown](https://space.bilibili.com/88461692)
+  - [[UP]3Blue1Brown](https://space.bilibili.com/88461692)
   - [[视频]3Blue1Brown-【官方双语/合集】微积分的本质 - 系列合集](https://www.bilibili.com/video/BV1qW411N7FU)
 
 - #### 线代
   
   - [[视频]3Blue1Brown-【官方双语/合集】线性代数的本质 - 系列合集](https://www.bilibili.com/video/BV1ys411472E)
-    
+
 ## 工具 Tools
 
 - 总推荐  
@@ -111,7 +123,7 @@
   
   - [[视频]大河李斯特视频工作室-【看番教程41】别再这样给文件转格式了！来看看正确姿势一秒换格式！FFmpeg是什么？如何使用？命令行指令怎么输入？如何图形化FFmpeg？FFmpeg保姆教程
     ](https://www.bilibili.com/video/BV1SjdoY9Erj)
-    
+
 ## 基础技能 Skills
 
 - #### 正确地提问
@@ -143,12 +155,13 @@
   - 基础的MD语法
   
   - [[仓库]Markdown 基本语法。](https://github.com/younghz/Markdown)
-    
+
 ## 竞赛 Contests
 
 - #### ACM
 
 - #### CTF
+  
   - [[官网]CTFHub](https://www.ctfhub.com/)
 
 ## 杂项 Misc
